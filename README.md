@@ -1,7 +1,7 @@
 paperclip\_keep\_original\_file\_name
 ======
 
-
+It provide to keep the original file name for paperclip.
 
 Usage
 ------
